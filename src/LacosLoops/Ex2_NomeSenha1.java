@@ -8,7 +8,7 @@ import java.util.Scanner;
  * a pedir as informações.
  */
 
-public class NomeSenha1 {
+public class Ex2_NomeSenha1 {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

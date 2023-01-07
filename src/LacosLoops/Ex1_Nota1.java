@@ -7,7 +7,7 @@ import java.util.Scanner;
  *  pedindo até que o usuário informe um valor válido.
  */
 
-public class Nota1 {
+public class Ex1_Nota1 {
 
     public static void main(String[] args) {
         
