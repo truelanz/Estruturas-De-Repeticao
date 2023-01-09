@@ -9,7 +9,23 @@ public class Ex7e8_LerMaiorNumero1 {
 
     public static void main(String[] args) {
 
-        Scanner scan = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
+
+        //  USANDO LAÇO FOR PARA LEO O MAIOR NÚMERO:
+
+        /* int max = 0;
+        
+            for (int count = 0; count < 5; count++) {
+              System.out.println("Numero: ");
+              int num = input.nextInt();
+              if (num > max) {
+                max = num;
+              }
+            }
+        
+            System.out.println("O maior número é: " + max);
+          }
+        } */
 
       int numeros = 0;
       int maiorNumero = 0;
@@ -23,7 +39,7 @@ public class Ex7e8_LerMaiorNumero1 {
             
         
         System.out.println("Digite 5 números: ");
-        numeros = scan.nextInt();
+        numeros = input.nextInt();
 
         count++;
         soma += numeros;
@@ -34,10 +50,7 @@ public class Ex7e8_LerMaiorNumero1 {
         System.out.println("\nA soma dos números é: " + soma);
         System.out.println("\nA média dos números é: " + soma/count);
         System.out.println("");
-
-
-        
-        
+     
     }
 
 }

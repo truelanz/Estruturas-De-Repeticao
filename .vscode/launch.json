@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch maior",
+            "request": "launch",
+            "mainClass": "LacosLoops.maior",
+            "projectName": "Estruturas-De-Repeticao_f6948ee3"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
