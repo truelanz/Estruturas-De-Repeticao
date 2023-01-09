@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bonus1_RemovendoEmString1",
+            "request": "launch",
+            "mainClass": "LacosLoops.Bonus1_RemovendoEmString1",
+            "projectName": "Estruturas-De-Repeticao_f6948ee3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex1_Nota1",
+            "request": "launch",
+            "mainClass": "LacosLoops.Ex1_Nota1",
+            "projectName": "Estruturas-De-Repeticao_f6948ee3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex2_NomeSenha1",
+            "request": "launch",
+            "mainClass": "LacosLoops.Ex2_NomeSenha1",
+            "projectName": "Estruturas-De-Repeticao_f6948ee3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex3_Infos1",
+            "request": "launch",
+            "mainClass": "LacosLoops.Ex3_Infos1",
+            "projectName": "Estruturas-De-Repeticao_f6948ee3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex4e5_PopulacaoPais1",
+            "request": "launch",
+            "mainClass": "LacosLoops.Ex4e5_PopulacaoPais1",
+            "projectName": "Estruturas-De-Repeticao_f6948ee3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex6_De1a20",
+            "request": "launch",
+            "mainClass": "LacosLoops.Ex6_De1a20",
+            "projectName": "Estruturas-De-Repeticao_f6948ee3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex7e8_LerMaiorNumero1",
+            "request": "launch",
+            "mainClass": "LacosLoops.Ex7e8_LerMaiorNumero1",
+            "projectName": "Estruturas-De-Repeticao_f6948ee3"
+        }
+    ]
+}

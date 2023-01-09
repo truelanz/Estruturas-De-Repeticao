@@ -21,6 +21,7 @@ public class Bonus1_RemovendoEmString1 {
             
       
       System.out.println("String com 'a' removida: " + frase);
+
    
 	   } 
     }
