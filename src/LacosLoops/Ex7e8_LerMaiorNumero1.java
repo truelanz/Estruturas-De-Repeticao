@@ -13,7 +13,7 @@ public class Ex7e8_LerMaiorNumero1 {
 
       int numeros = 0;
       int maiorNumero = 0;
-      int soma = numeros;
+      int soma = 0;
       int count = 0;
 
         do{
