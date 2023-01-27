@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ex13_Expoente1",
+            "request": "launch",
+            "mainClass": "LacosLoops.Ex13_Expoente1",
+            "projectName": "estruturas-de-repeticao_ab82682c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex12_GeradorDeTabuada1",
+            "request": "launch",
+            "mainClass": "LacosLoops.Ex12_GeradorDeTabuada1",
+            "projectName": "Estruturas-De-Repeticao_f6948ee3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex10e11_NumerosIntervalo1",
+            "request": "launch",
+            "mainClass": "LacosLoops.Ex10e11_NumerosIntervalo1",
+            "projectName": "Estruturas-De-Repeticao_f6948ee3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex10_NumerosIntervalo1",
+            "request": "launch",
+            "mainClass": "LacosLoops.Ex10_NumerosIntervalo1",
+            "projectName": "Estruturas-De-Repeticao_f6948ee3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex9_NumeroImpares1",
+            "request": "launch",
+            "mainClass": "LacosLoops.Ex9_NumeroImpares1",
+            "projectName": "Estruturas-De-Repeticao_f6948ee3"
+        },
+        {
+            "type": "java",
             "name": "Launch maior",
             "request": "launch",
             "mainClass": "LacosLoops.maior",
